@@ -1,5 +1,5 @@
 # Car Acceptability Classification
-This is the coursework for UCL MSc CEGE0004 Machine Learning for Data Science.
+This is the coursework for UCL MSc CEGE0004 Machine Learning for Data Science. The code was completed in March 2022.
 
 The data used in this project were from a car evaluation [dataset](https://archive.ics.uci.edu/dataset/19/car+evaluation) derived from a hierarchical model originally developed for M. Bohanec and V. Rajkovic's research on multi-attribute decision-making in 1990.
 
